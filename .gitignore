@@ -4,3 +4,7 @@ build/
 dist/
 .idea
 npm-debug.log
+src/**/*.js
+test/**/*.js
+src/**/*.d.ts
+test/**/*.d.ts
